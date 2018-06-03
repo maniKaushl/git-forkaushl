@@ -1,0 +1,11 @@
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/bin/Debug/netcoreapp2.0/CrossSolar.deps.json
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/bin/Debug/netcoreapp2.0/CrossSolar.runtimeconfig.json
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/bin/Debug/netcoreapp2.0/CrossSolar.runtimeconfig.dev.json
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/bin/Debug/netcoreapp2.0/CrossSolar.dll
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/bin/Debug/netcoreapp2.0/CrossSolar.pdb
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/obj/Debug/netcoreapp2.0/CrossSolar.csprojResolveAssemblyReference.cache
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/obj/Debug/netcoreapp2.0/CrossSolar.csproj.CoreCompileInputs.cache
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/obj/Debug/netcoreapp2.0/CrossSolar.AssemblyInfoInputs.cache
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/obj/Debug/netcoreapp2.0/CrossSolar.AssemblyInfo.cs
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/obj/Debug/netcoreapp2.0/CrossSolar.dll
+/Users/kaushal/Downloads/cross-solar-dotnet 3/CrossSolar/obj/Debug/netcoreapp2.0/CrossSolar.pdb
